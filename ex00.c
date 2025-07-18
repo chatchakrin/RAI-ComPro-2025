@@ -1,7 +1,12 @@
 
-#include <stdio.h>
-int main(){
-    printf('hello ee');
-    int we=1
-    printf(we);
+#include<stdio.h>
+
+int main()
+{
+   printf("EXERCISE\n");
+   printf("Salary      :%8d\n",6500);
+   printf("Money/Week  :%8.2f\n",6500.0/4);
+   printf("Money/Day.  :%8.3f\n",6500.0/4/7);
+
+    return 0;
 }

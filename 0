@@ -1,0 +1,14 @@
+    printf("Hello, World!!\n");
+    printf("This is my first Program\n");
+    printf("\tI\'m Matbot Engineer\n");
+    printf("My Name is:%sChatchakrin\n","KMITL\n");
+    printf("My point:%d\n",20+30+39);
+    printf("Grade:%c\n",'A');
+    printf("GPA:%f\n",3.50);
+    printf("Age = %d, GPA = %f\n",18,3.5);
+    printf("Programming: %f\nPhysics:%f",4.0,3.50);
+    printf("\n123456789012345678901234567890");
+    printf("\n%20d",'c');
+    printf("\n%-20d",'c');
+    printf("\n%10s","Pro");
+    printf("\n%10s","Programming");
